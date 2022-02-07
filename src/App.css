@@ -1,0 +1,38 @@
+.btn-danger{
+  background: rgba(189, 7, 7, 1) !important;
+}
+.red{
+  background: rgba(189, 7, 7, 1) !important;
+}
+.t-red{
+  color: rgba(189, 7, 7, 1);
+}
+.gb{
+  width: 100px;
+}
+.trash{
+  width: 25px;
+}
+.upp{
+  width: 300px !important;
+}
+.up{
+  width: 270px !important;
+}
+.t-day{
+  font-size: 15px;
+}
+.index{
+  position: absolute;
+  right: 60px;
+  margin-right: 10px;
+}
+.cardi{
+  background-color:pink !important;
+}
+.card-title{
+  font-weight: bold;
+}
+.card-text{
+  font-weight: lighter;
+}
